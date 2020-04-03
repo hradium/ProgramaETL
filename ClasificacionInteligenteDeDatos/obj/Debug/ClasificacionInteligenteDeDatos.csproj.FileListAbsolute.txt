@@ -1,0 +1,30 @@
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe.config
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.pdb
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Form1.resources
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Properties.Resources.resources
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\Abraham\source\repos\ClasificacionInteligenteDeDatos\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.pdb
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe.config
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.pdb
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Form1.resources
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Properties.Resources.resources
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.GenerateResource.Cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\Datawarehouse\Datawarehouse\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.pdb
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe.config
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\bin\Debug\ClasificacionInteligenteDeDatos.pdb
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Form1.resources
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.Properties.Resources.resources
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.GenerateResource.Cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.exe
+C:\Users\hazer\OneDrive\Documentos\7 - Septimo\ProgramaETL\ProgramaETL\ClasificacionInteligenteDeDatos\obj\Debug\ClasificacionInteligenteDeDatos.pdb
